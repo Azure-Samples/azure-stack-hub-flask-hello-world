@@ -1,3 +1,3 @@
 # flask-hello-world
 
-This only an exmaple repo to use as a submodule
+This is a bare bones flask app used in deploying a Web app.
